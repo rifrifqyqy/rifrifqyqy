@@ -42,7 +42,7 @@ Hello, my name Rifqy Hamdani. A passionate UI/UX Designer and also frontend deve
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%EA4C89.svg?style=for-the-badge&logo=express&logoColor=%EA4C89)
 
 
 ## Database
