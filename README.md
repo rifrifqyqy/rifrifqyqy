@@ -15,11 +15,14 @@ Hello, my name Rifqy Hamdani. A passionate UI/UX Designer and also frontend deve
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rifrifqyqy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+##  Personal Website:
+visit my personal website
+- https://rifqyluo-personalweb.vercel.app/
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rifrifqyqy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Contact
+instagram - [@rifrifqyqy](https://www.instagram.com/rifrifqyqy/)
+whatsapp - [whatsapp] 081288233054
+gmail - [gmail] rifqyh22@gmail.com
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rifrifqyqy&icon=8&color=1)](https://visitcount.itsvg.in)
