@@ -20,9 +20,9 @@ visit my personal website
 - https://rifqyluo-personalweb.vercel.app/
 
 ## Contact
-instagram - [@rifrifqyqy](https://www.instagram.com/rifrifqyqy/)
-whatsapp - [whatsapp] 081288233054
-gmail - [gmail] rifqyh22@gmail.com
+- instagram - [@rifrifqyqy](https://www.instagram.com/rifrifqyqy/)
+- whatsapp - [whatsapp] 081288233054
+- gmail - [gmail] rifqyh22@gmail.com
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rifrifqyqy&icon=8&color=1)](https://visitcount.itsvg.in)
