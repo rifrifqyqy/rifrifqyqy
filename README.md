@@ -60,13 +60,6 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ## Deployment
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rifrifqyqy&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rifrifqyqy&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifrifqyqy&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rifrifqyqy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ##  Personal Website:
 visit my personal website
