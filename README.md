@@ -60,6 +60,8 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ## Deployment
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifrifqyqy&layout=compact)
 
 ##  Personal Website:
