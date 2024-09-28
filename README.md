@@ -31,7 +31,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ![SolidJS](https://img.shields.io/badge/Solid%20JS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Remix](https://img.shields.io/badge/remix%20JS-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
+![Remix](https://img.shields.io/badge/remix%20run-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
 ![Svelte](https://img.shields.io/badge/sveltekit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) 
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=dribble) 
 
