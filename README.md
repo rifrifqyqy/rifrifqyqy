@@ -2,9 +2,6 @@
 Hello, my name Rifqy Hamdani. A passionate UI/UX Designer and also frontend developer from Indonesia
 
 
-##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rifrifqyqy) 
-
 
 ## Design
 
