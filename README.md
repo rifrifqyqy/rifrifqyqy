@@ -1,4 +1,4 @@
-#  About Me:
+#  Greetings
 Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from Indonesia. I love crafting seamless user experiences and building responsive, intuitive interfaces. I'm particularly interested in combining design aesthetics with frontend development to create beautiful and functional web applications. Let’s build something amazing together!
 
 ## Simp
