@@ -62,9 +62,8 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifrifqyqy&layout=compact)
-## 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rifrifqyqy)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifrifqyqy&layout=compact&langs_count=10&bg_color=151515)
+
 ##  Personal Website:
 visit my personal website
 - https://rifqyluo-personalweb.vercel.app/
