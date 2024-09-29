@@ -64,8 +64,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifrifqyqy&layout=compact)
 ## 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifrifqyqy
-&show_icons=true)
+![Rifqy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifrifqyqy&show_icons=true)
 ##  Personal Website:
 visit my personal website
 - https://rifqyluo-personalweb.vercel.app/
