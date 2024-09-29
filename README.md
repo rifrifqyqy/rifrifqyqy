@@ -1,5 +1,6 @@
 #  Greetings
 Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from Indonesia. I love crafting seamless user experiences and building responsive, intuitive interfaces. I'm particularly interested in combining design aesthetics with frontend development to create beautiful and functional web applications. Let’s build something amazing together!
+## ![Alt Text](https://i.ytimg.com/vi/BVgJOYQcKDY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB94gnYQM2IIpxJSxovV3RlTiZ-fg)
 
 ## Simp
 ![Framer Motion](https://img.shields.io/badge/Furina%20de%20fontaine-blue?style=for-the-badge&logo=framer&logoColor=dribble) 
@@ -24,8 +25,6 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Nuxt JS](https://img.shields.io/badge/Nuxt%20JS-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
 ![Vue.js](https://img.shields.io/badge/vue%20js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next%20JS-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react%20JS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SolidJS](https://img.shields.io/badge/Solid%20JS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) 
