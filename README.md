@@ -82,5 +82,6 @@ visit my personal website
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rifrifqyqy&icon=8&color=1)](https://visitcount.itsvg.in)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadfadjar&show_icons=true&locale=en&theme=algolia" alt="ahmadfadjar" /></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
