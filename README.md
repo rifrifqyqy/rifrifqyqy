@@ -83,5 +83,6 @@ visit my personal website
 ---
 [![](https://visitcount.itsvg.in/api?id=rifrifqyqy&icon=8&color=1)](https://visitcount.itsvg.in)
 ## visit
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifrifqyqy&show_icons=true&locale=en&theme=algolia" alt="rifrifqyqy" />
+![rifrifqyqy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifrifqyqy&show_icons=true&locale=en&theme=algolia)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
