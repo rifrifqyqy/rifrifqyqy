@@ -1,5 +1,7 @@
 #  Greetings
 Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from Indonesia. I love crafting seamless user experiences and building responsive, intuitive interfaces. I'm particularly interested in combining design aesthetics with frontend development to create beautiful and functional web applications. Let’s build something amazing together!
+##
+<img src="https://komarev.com/ghpvc/?username=rifrifqyqy&label=Profile%20views&color=0e75b6&style=flat" alt="rifqyprofile" />
 ## 
 <p align="center">
   <img src="https://i.ytimg.com/vi/BVgJOYQcKDY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB94gnYQM2IIpxJSxovV3RlTiZ-fg" alt="Alt Text" style="height:240px" />
@@ -81,8 +83,7 @@ visit my personal website
 - gmail - rifqyh22@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rifrifqyqy&icon=8&color=1)](https://visitcount.itsvg.in)
-## visit
-<img src="https://komarev.com/ghpvc/?username=rifrifqyqy&label=Profile%20views&color=0e75b6&style=flat" alt="rifqyprofile" />
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
