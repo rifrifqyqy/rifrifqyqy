@@ -83,6 +83,6 @@ visit my personal website
 ---
 [![](https://visitcount.itsvg.in/api?id=rifrifqyqy&icon=8&color=1)](https://visitcount.itsvg.in)
 ## visit
-![rifrifqyqy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifrifqyqy&show_icons=true&locale=en&theme=algolia)
+<img src="https://komarev.com/ghpvc/?username=rifrifqyqy&label=Profile%20views&color=0e75b6&style=flat" alt="rifqyprofile" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
