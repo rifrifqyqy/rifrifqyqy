@@ -38,6 +38,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Remix](https://img.shields.io/badge/remix%20run-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
+![Rails](https://img.shields.io/badge/ruby%20on%20RAILS-d21203.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Svelte](https://img.shields.io/badge/sveltekit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) 
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=dribble) 
 
@@ -46,8 +47,8 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-FF638C.svg?style=for-the-badge&logo=express&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-red.svg?style=for-the-badge&logo=ruby)
-![Rails](https://img.shields.io/badge/RAILS-d21203.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-d21203.svg?style=for-the-badge&logo=ruby)
+
 
 ## Database
 
