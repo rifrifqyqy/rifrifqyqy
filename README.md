@@ -47,6 +47,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-FF638C.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-red.svg?style=for-the-badge&logo=ruby)
+![Rails](https://img.shields.io/badge/RAILS-d21203.svg?style=for-the-badge&logo=rails)
 
 ## Database
 
