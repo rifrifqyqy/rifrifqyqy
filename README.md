@@ -6,7 +6,8 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 <p align="center">
   <img src="https://i.ytimg.com/vi/BVgJOYQcKDY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB94gnYQM2IIpxJSxovV3RlTiZ-fg" alt="Alt Text" style="height:240px" />
 </p>
-
+## 
+<img src="https://storage.kodeteks.com/line.gif">
 ## My Life Support!
 ![Framer Motion](https://img.shields.io/badge/Furina%20de%20fontaine-blue?style=for-the-badge&logo=framer&logoColor=dribble) 
 ## Design
