@@ -7,7 +7,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
   <img src="https://i.ytimg.com/vi/BVgJOYQcKDY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB94gnYQM2IIpxJSxovV3RlTiZ-fg" alt="Alt Text" style="height:240px" />
 </p>
 
-## Simp
+## My Life Support!
 ![Framer Motion](https://img.shields.io/badge/Furina%20de%20fontaine-blue?style=for-the-badge&logo=framer&logoColor=dribble) 
 ## Design
 
@@ -69,7 +69,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ##
 [![trophy](https://github-profile-trophy.vercel.app/?username=rifrifqyqy&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-##  Personal Website:
+##  Personal Website
 visit my personal website
 - https://rifqyluo-personalweb.vercel.app/
 
