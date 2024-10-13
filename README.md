@@ -72,12 +72,11 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 
 ##  Personal Website
 <div align="center">
-  <img src="./mockup.png" style="height:240px; width: min-content "/>
+  <img align="left" src="./mockup.png" style="height:240px; width: min-content "/>
   <div align="right">
   visit my personal website
-- https://rifqyluo-personalweb.vercel.app/
+  - https://rifqyluo-personalweb.vercel.app/
   </div>
-
 </div>
 
 
