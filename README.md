@@ -74,7 +74,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ##
 <p align="center" style="width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifrifqyqy&langs_count=10&theme=gruvbox&hide_border=true&show_icons=true" alt="Top Langs" style="height: 200px"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifrifqyqy&layout=compact&langs_count=10&theme=gruvbox&hide_border=true&show_icons=true&include_all_commits=true" alt="Top Langs" style="height: 200px"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifrifqyqy&theme=gruvbox&hide_border=true" alt="rqrq" style="height: 200px" />  
 </p>
 
