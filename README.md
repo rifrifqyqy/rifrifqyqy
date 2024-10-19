@@ -93,7 +93,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 
 ## Contact
 - instagram - [@rifrifqyqy](https://www.instagram.com/rifrifqyqy/)
-- whatsapp - 081288233054
+- whatsapp - [081288233054](https://api.whatsapp.com/send?phone=6281288233054)
 - gmail - rifqyh22@gmail.com
 
 ---
