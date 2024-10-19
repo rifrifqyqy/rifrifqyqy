@@ -80,8 +80,8 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ##
 [![trophy](https://github-profile-trophy.vercel.app/?username=rifrifqyqy&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 ##
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifrifqyqy&theme=gruvbox&locale=en" alt="rqrq" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifrifqyqy&theme=gruvbox" alt="rqrq" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rifrifqyqy&theme=gruvbox&locale=en" alt="rqrq" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rifrifqyqy&theme=gruvbox" alt="rqrq" /></p>
 
 ##  Personal Website
 <div align="center" display="flex" style="display:flex">
