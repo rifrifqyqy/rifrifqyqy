@@ -96,7 +96,9 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 - whatsapp - [081288233054](https://api.whatsapp.com/send?phone=6281288233054)
 - gmail - rifqyh22@gmail.com
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifrifqyqy&show_icons=true&locale=en" alt="rqrq" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifrifqyqy&" alt="rqrq" /></p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
