@@ -75,7 +75,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ##
 <p align="left" style="width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifrifqyqy&layout=compact&langs_count=10&theme=gruvbox" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifrifqyqy&theme=gruvbox" alt="rqrq" style="height: 100%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifrifqyqy&theme=gruvbox" alt="rqrq" style="height: 300px" />  
 </p>
 <p align="left" style="width: 100%;">
 </p>
