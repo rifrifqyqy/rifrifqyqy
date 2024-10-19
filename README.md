@@ -17,7 +17,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
-![UIUX](https://img.shields.io/badge/UI/UX-blue?style=for-the-badge&logo=framer&logoColor=white) 
+![UIUX](https://img.shields.io/badge/UI/UX-blue?style=for-the-badge&logo=figma&logoColor=white) 
 
 
 ## Frontend
