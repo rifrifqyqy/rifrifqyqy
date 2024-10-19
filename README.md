@@ -74,11 +74,16 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ##
 <p align="center" style="width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifrifqyqy&layout=compact&langs_count=10&bg_color=151515&text_color=9e9ea0&&icon_color=9fe3b1&border_color=d8d8d8&title_color=d8d8d8" alt="Top Langs" style="width: 500px; height:200px; " />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifrifqyqy&layout=compact&langs_count=10&theme=gruvbox" alt="Top Langs" style="width: 500px; height:200px; " />
 </p>
 
 ##
 [![trophy](https://github-profile-trophy.vercel.app/?username=rifrifqyqy&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+##
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifrifqyqy&theme=gruvbox&locale=en" alt="rqrq" /></p>
+
+##
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifrifqyqy&theme=gruvbox" alt="rqrq" /></p>
 
 ##  Personal Website
 <div align="center" display="flex" style="display:flex">
@@ -96,11 +101,6 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 - whatsapp - [081288233054](https://api.whatsapp.com/send?phone=6281288233054)
 - gmail - rifqyh22@gmail.com
 
-##
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifrifqyqy&theme=gruvbox&locale=en" alt="rqrq" /></p>
-
-##
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifrifqyqy&theme=gruvbox" alt="rqrq" /></p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
