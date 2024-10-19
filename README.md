@@ -97,9 +97,6 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 - gmail - rifqyh22@gmail.com
 
 ---
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reinandafaris&show_icons=true&locale=en" alt="reinandafaris" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reinandafaris&" alt="reinandafaris" /></p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
