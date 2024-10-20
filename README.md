@@ -73,7 +73,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ## Deployment
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ##
-<p align="center" style="width: 100%;">
+<p align="left" style="width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifrifqyqy&layout=compact&langs_count=10&theme=gruvbox&hide_border=true&size_weight=0.5&count_weight=0.5&hide=yacc,makefile,ragel,c,cplusplus,hack" alt="Top Langs" style="height: 200px"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifrifqyqy&theme=gruvbox&hide_border=true" alt="rqrq" style="height: 200px" />  
 </p>
@@ -82,7 +82,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifrifqyqy&show_icons=true&theme=gruvbox&hide_border=true)
 
 ##
-<p align="center">
+<p align="left">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=rifrifqyqy&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
