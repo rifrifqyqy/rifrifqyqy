@@ -20,11 +20,9 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 
 ## My Life Support!
 
-<div style="display:flex;">
+<div style="">
 <img src ="./furina_item.png" style=" height: 90px; "/>
 <img src ="./furina_item.png" style=" height: 90px; "/>
-
-  ![image](./furina_item.png)
   ![Framer Motion](https://img.shields.io/badge/Furina%20de%20fontaine-blue?style=for-the-badge&logo=framer&logoColor=dribble)
 </div>
 
