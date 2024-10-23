@@ -70,7 +70,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ## Tools
 <div>
   <img src ="./sketch/nodejs.svg" style=" height: 50px; "/>
-  <img src ="./sketch/vitejs.svg" style=" height: 50px; "/>
+  <img src ="./sketch/vitejs.png" style=" height: 50px; "/>
   <img src ="./sketch/trello.svg" style=" height: 50px; "/>
 </div>
 
