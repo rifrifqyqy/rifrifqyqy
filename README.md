@@ -31,14 +31,26 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 </div>
 
 ## Design
-
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
+<div>
+  <img src ="./sketch/illustrator.svg" style=" height: 50px; "/>
+  <img src ="./sketch/photoshop.svg" style=" height: 50px; "/>
+  <img src ="./sketch/framer.svg" style=" height: 50px; "/>
+  <img src ="./sketch/figma.svg" style=" height: 50px; "/>
+</div>
 
 ## Frontend
-
+<div>
+  <img src ="./sketch/css.svg" style=" height: 50px; "/>
+  <img src ="./sketch/tailwind.svg" style=" height: 50px; "/>
+  <img src ="./sketch/shadcn.svg" style=" height: 50px; "/>
+  <img src ="./sketch/bootstrap.svg" style=" height: 50px; "/>
+  <img src ="./sketch/js.svg" style=" height: 50px; "/>
+  <img src ="./sketch/react.svg" style=" height: 50px; "/>
+  <img src ="./sketch/next.svg" style=" height: 50px; "/>
+  <img src ="./sketch/solid.svg" style=" height: 50px; "/>
+  <img src ="./sketch/vue.svg" style=" height: 50px; "/>
+  <img src ="./sketch/nuxt.svg" style=" height: 50px; "/>
+</div>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
