@@ -47,10 +47,11 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
   <img src ="./sketch/js.svg" style=" height: 50px; "/>
   <img src ="./sketch/react.svg" style=" height: 50px; "/>
   <img src ="./sketch/next.svg" style=" height: 50px; "/>
-  <img src ="./sketch/solid.svg" style=" height: 50px; "/>
+  <img src ="./sketch/solidjs.svg" style=" height: 50px; "/>
   <img src ="./sketch/vue.svg" style=" height: 50px; "/>
   <img src ="./sketch/nuxt.svg" style=" height: 50px; "/>
 </div>
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
