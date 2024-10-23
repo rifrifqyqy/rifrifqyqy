@@ -51,7 +51,6 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
   <img src ="./sketch/vue.svg" style=" height: 50px; "/>
   <img src ="./sketch/nuxt.svg" style=" height: 50px; "/>
   <img src ="./sketch/svelte.svg" style=" height: 50px; "/>
-  <img src ="./sketch/svelte.svg" style=" height: 50px; "/>
   <img src ="./sketch/remix.svg" style=" height: 50px; "/>
   <img src ="./sketch/framermotion.svg" style=" height: 50px; "/>
 </div>
@@ -65,9 +64,10 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 </div>
 
 ## Database
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+<div>
+  <img src ="./sketch/sql.svg" style=" height: 50px; "/>
+  <img src ="./sketch/mongodb.svg" style=" height: 50px; "/>
+</div>
 
 ## Tools
 
