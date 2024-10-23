@@ -50,30 +50,19 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
   <img src ="./sketch/solidjs.svg" style=" height: 50px; "/>
   <img src ="./sketch/vue.svg" style=" height: 50px; "/>
   <img src ="./sketch/nuxt.svg" style=" height: 50px; "/>
+  <img src ="./sketch/svelte.svg" style=" height: 50px; "/>
+  <img src ="./sketch/svelte.svg" style=" height: 50px; "/>
+  <img src ="./sketch/remix.svg" style=" height: 50px; "/>
+  <img src ="./sketch/framermotion.svg" style=" height: 50px; "/>
 </div>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Shadcn UI](https://img.shields.io/badge/Shadcn%20ui-black?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Nuxt JS](https://img.shields.io/badge/Nuxt%20JS-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
-![Vue.js](https://img.shields.io/badge/vue%20js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next JS](https://img.shields.io/badge/Next%20JS-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react%20JS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Remix](https://img.shields.io/badge/remix%20run-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
-![Svelte](https://img.shields.io/badge/sveltekit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) 
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=dribble) 
-
 ## Backend
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-FF638C.svg?style=for-the-badge&logo=express&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-d21203.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/ruby%20on%20RAILS-d21203.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+<div>
+  <img src ="./sketch/php.svg" style=" height: 50px; "/>
+  <img src ="./sketch/express.svg" style=" height: 50px; "/>
+  <img src ="./sketch/ruby.svg" style=" height: 50px; "/>
+  <img src ="./sketch/rails.svg" style=" height: 50px; "/>
+</div>
 
 ## Database
 
