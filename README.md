@@ -76,7 +76,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 
 ## Deployment
 <div>
-  <img src ="./sketch/vercel.svg" style=" height: 50px; "/>
+  <img src ="./sketch/vercel.png" style=" height: 50px; "/>
 </div>
 
 ##
