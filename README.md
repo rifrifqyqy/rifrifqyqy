@@ -19,7 +19,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 <img src="https://storage.kodeteks.com/line.gif">
 
 ## My Life Support!
-<img align="left" src ="./furina_item.png" style=" height: 90px; "/>
+<img float="left" src ="./furina_item.png" style=" height: 90px; "/>
 
 <div>
   
