@@ -2,8 +2,8 @@
 Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from Indonesia. I love crafting seamless user experiences and building responsive, intuitive interfaces. I'm particularly interested in combining design aesthetics with frontend development to create beautiful and functional web applications. Let’s build something amazing together!
 
 ### Currently learn
-![Ruby](https://img.shields.io/badge/ruby-d21203.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/ruby%20on%20RAILS-d21203.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+  <img src ="./sketch/rails.svg" style=" height: 50px; "/>
+  <img src ="./sketch/ruby.svg" style=" height: 50px; "/>
 
 ### Favorite stack
 <div>
@@ -11,6 +11,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
   <img src ="./sketch/tailwind.svg" style=" height: 50px; "/>
   <img src ="./sketch/framermotion.svg" style=" height: 50px; "/>
 </div>
+
 ##
 <img align="center" src="https://komarev.com/ghpvc/?username=rifrifqyqy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="rifqyprofile" />
 
