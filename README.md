@@ -7,7 +7,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 
 ### Favorite stack
 <div>
-  <img src ="./sketch/remix.svg" style=" height: 90px; "/>
+  <img src ="./sketch/remix.svg" style=" height: 60px; "/>
 </div>
 
 ![Remix](https://img.shields.io/badge/remix%20run-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
