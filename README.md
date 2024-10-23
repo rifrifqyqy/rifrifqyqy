@@ -6,6 +6,10 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ![Rails](https://img.shields.io/badge/ruby%20on%20RAILS-d21203.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ### Favorite stack
+<div>
+  <img src ="./sketch/remix.svg" style=" height: 90px; "/>
+</div>
+
 ![Remix](https://img.shields.io/badge/remix%20run-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=dribble) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
