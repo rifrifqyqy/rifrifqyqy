@@ -19,9 +19,9 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 <img src="https://storage.kodeteks.com/line.gif">
 
 ## My Life Support!
-<img float="left" src ="./furina_item.png" style=" height: 90px; "/>
 
 <div>
+<img float="left" src ="./furina_item.png" style=" height: 90px; float:left; "/>
   
   ![Framer Motion](https://img.shields.io/badge/Furina%20de%20fontaine-blue?style=for-the-badge&logo=framer&logoColor=dribble)
 </div>
