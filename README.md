@@ -45,7 +45,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
   <img src ="./sketch/js.svg" style=" height: 50px; "/>
   <img src ="./sketch/react.svg" style=" height: 50px; "/>
   <img src ="./sketch/next.svg" style=" height: 50px; "/>
-  <img src ="./sketch/solidjs.svg" style=" height: 50px; "/>
+  <img src ="./sketch/solidjs.png" style=" height: 50px; "/>
   <img src ="./sketch/vue.svg" style=" height: 50px; "/>
   <img src ="./sketch/nuxt.svg" style=" height: 50px; "/>
   <img src ="./sketch/svelte.svg" style=" height: 50px; "/>
