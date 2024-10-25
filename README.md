@@ -9,7 +9,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 
 ### Favorite stack
 <div>
-  <img src ="./sketch/remix.png" style=" height: 50px; "/>
+  <img src ="./sketch/remixjs.png" style=" height: 50px; "/>
   <img src ="./sketch/tailwind.svg" style=" height: 50px; "/>
   <img src ="./sketch/framermotion.svg" style=" height: 50px; "/>
 </div>
@@ -49,7 +49,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
   <img src ="./sketch/vue.svg" style=" height: 50px; "/>
   <img src ="./sketch/nuxt.svg" style=" height: 50px; "/>
   <img src ="./sketch/svelte.svg" style=" height: 50px; "/>
-  <img src ="./sketch/remix.png" style=" height: 50px; "/>
+  <img src ="./sketch/remixjs.png" style=" height: 50px; "/>
   <img src ="./sketch/framermotion.svg" style=" height: 50px; "/>
 </div>
 
