@@ -3,8 +3,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 
 ### Currently learn
 <div>
-  <img src ="./sketch/ruby.svg" style=" height: 50px; "/>
-  <img src ="./sketch/rails.svg" style=" height: 50px; "/>
+  <img src ="./furina_item.png" style=" height: 90px; "/>
 </div>
 
 ### Favorite stack
