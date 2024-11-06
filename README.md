@@ -79,7 +79,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 
 ##
 <p align="left" style="width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifrifqyqy&layout=compact&langs_count=10&theme=gruvbox&hide_border=true&size_weight=0.5&count_weight=0.5&hide=yacc,makefile,ragel,c,cplusplus,hack,cmake,dart" alt="Top Langs" style="height: 200px"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifrifqyqy&layout=compact&langs_count=10&theme=gruvbox&hide_border=true&size_weight=0.5&count_weight=0.5&hide=yacc,makefile,ragel,c,cplusplus,hack,cmake,dart,c++" alt="Top Langs" style="height: 200px"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifrifqyqy&theme=gruvbox&hide_border=true" alt="rqrq" style="height: 200px" />  
 </p>
 
