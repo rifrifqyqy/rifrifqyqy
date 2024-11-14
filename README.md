@@ -89,6 +89,9 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
   [![trophy](https://github-profile-trophy.vercel.app/?username=rifrifqyqy&rank=-C,-?&theme=gruvbox&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
+## Wakatime
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rifrifqyqy)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
 ##  Personal Website
