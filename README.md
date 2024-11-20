@@ -29,6 +29,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 
 ## Design
 <div>
+  <img src ="./sketch/csp.svg" style=" height: 50px; "/>
   <img src ="./sketch/illustrator.svg" style=" height: 50px; "/>
   <img src ="./sketch/photoshop.svg" style=" height: 50px; "/>
   <img src ="./sketch/framer.svg" style=" height: 50px; "/>
