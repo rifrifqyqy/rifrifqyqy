@@ -9,8 +9,10 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ### Favorite stack
 <div>
   <img src ="./sketch/remixjs.png" style=" height: 50px; "/>
+  <img src ="./sketch/mongodb.svg" style=" height: 50px; "/>
   <img src ="./sketch/tailwind.svg" style=" height: 50px; "/>
   <img src ="./sketch/framermotion.svg" style=" height: 50px; "/>
+  <img src ="./sketch/figma.svg" style=" height: 50px; "/>
 </div>
 
 ##
