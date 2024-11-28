@@ -115,7 +115,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 <p align="center" style="width: 100%;">
   <img src="./sketch/remixrunkawai2.svg" style=" height: 100px"/>
   <img src="./sketch/framermotionkawai2.svg" style=" height: 100px"/>
-  <img src="./sketch/mongodbkawai" style=" height: 100px"/>
+  <img src="./sketch/mongodbkawai.svg" style=" height: 100px"/>
 </p>
 
 
