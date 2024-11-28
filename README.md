@@ -5,7 +5,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 <div>
   <img src ="./furina_item.png" style=" height: 90px; "/>
 </div>
-
+ 
 ### Favorite stack
 <div>
   <img src ="./sketch/remixjs.png" style=" height: 50px; "/>
