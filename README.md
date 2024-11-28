@@ -110,6 +110,11 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 - whatsapp - [081288233054](https://api.whatsapp.com/send?phone=6281288233054)
 - gmail - rifqyh22@gmail.com
 
+## 
+
+<p align="left" style="width: 100%;">
+  <img src="./sketch/railskawai.png" style=" height: 150px;/>
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
