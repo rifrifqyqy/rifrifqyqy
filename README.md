@@ -7,12 +7,10 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 </div>
  
 ### Favorite stack 
-<div>
-  <img src ="./sketch/remixjs.png" style=" height: 50px; "/>
-  <img src ="./sketch/mongodb.svg" style=" height: 50px; "/>
-  <img src ="./sketch/tailwind.svg" style=" height: 50px; "/>
-  <img src ="./sketch/framermotion.svg" style=" height: 50px; "/>
-  <img src ="./sketch/figma.svg" style=" height: 50px; "/>
+<div align="center">
+  <img src="./sketch/remixrunkawai2.svg" style=" height: 100px"/>
+  <img src="./sketch/framermotionkawai2.svg" style=" height: 100px"/>
+  <img src="./sketch/mongodbkawai.svg" style=" height: 100px"/>
 </div>
 
 ##
@@ -113,9 +111,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 ## 
 
 <p align="center" style="width: 100%;">
-  <img src="./sketch/remixrunkawai2.svg" style=" height: 100px"/>
-  <img src="./sketch/framermotionkawai2.svg" style=" height: 100px"/>
-  <img src="./sketch/mongodbkawai.svg" style=" height: 100px"/>
+
 </p>
 
 
