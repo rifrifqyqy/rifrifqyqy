@@ -11,7 +11,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
   <img src="./sketch/remixkawai@2x.png" style=" height: 100px"/>
   <img src="./sketch/framermotionkawai2.svg" style=" height: 100px"/>
   <img src="./sketch/mongodbkawai.svg" style=" height: 100px"/>
-  <img src="./sketch/railskawai.png" style=" height: 110px"/>
+  <img src="./sketch/railskawai.png" style=" height: 110px" style="margin-left: 12px"/>
 </div>
 
 ##
