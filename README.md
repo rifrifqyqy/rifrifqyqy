@@ -92,7 +92,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 </p>
 
 ## 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemmakarovin&show_icons=true&theme=gruvbox&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifrifqyqy&show_icons=true&theme=gruvbox&include_all_commits=true)
 
  
 ##  Personal Website
