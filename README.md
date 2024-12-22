@@ -15,7 +15,7 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
 </div>
 
 ##
-<span align="left">
+<span align="left" display="inline">
   <img align="center" src="https://komarev.com/ghpvc/?username=rifrifqyqy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="rifqyprofile" />
   
   [![wakatime](https://wakatime.com/badge/user/1a07ecd8-7cd5-46ac-a6bf-cae452cbcce9.svg/?style=for-the-badge)](https://wakatime.com/@1a07ecd8-7cd5-46ac-a6bf-cae452cbcce9)
