@@ -8,10 +8,9 @@ Hi, I'm Rifqy Hamdani, a passionate UI/UX Designer and Frontend Developer from I
  
 ### Favorite stack 
 <div align="center">
-  <img src="./sketch/remixkawai@2x.png" style=" height: 60px"/>
+  <img src="./sketch/svelte.svg" style=" height: 60px"/>
   <img src="./sketch/framermotionkawai2.svg" style=" height: 60px"/>
   <img src="./sketch/mongodbkawai.svg" style=" height: 60px"/>
-  <img src="./sketch/railskawai.png" style=" height: 70px; margin-left: 12px"/>
 </div>
 
 ##
